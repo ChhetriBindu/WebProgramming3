@@ -1,4 +1,4 @@
-fun main() {
-  println("Welcome to Dell")
-  println("Chhetri Bindu Kumari Dell")
-    }
+fun powerOf(
+  number: Int,
+  exponent: Int, // trailing comma
+) { /*...*/ }
